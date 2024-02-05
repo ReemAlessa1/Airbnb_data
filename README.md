@@ -27,8 +27,8 @@ To display work relevant to the questions above, there is one notebook available
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://reemalessa1.github.io/).
+The post that is published  [here](https://reemalessa1.github.io/) contains the primary conclusions of the code.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-Must give credit to Airbnb for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/datasets/airbnb/seattle). Otherwise, feel free to use the code here as you would like!
+Must give credit to Airbnb for the data. You can find the Licensing for the data and other descriptive information at the Kaggle link available [here](https://www.kaggle.com/datasets/airbnb/seattle).
