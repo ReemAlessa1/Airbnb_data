@@ -27,7 +27,7 @@ To display work relevant to the questions above, there is one notebook available
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here](https://medium.com/@josh_2774/how-do-you-become-a-developer-5ef1c1c68711).
+The main findings of the code can be found at the post available [here](https://reemalessa1.github.io/).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
