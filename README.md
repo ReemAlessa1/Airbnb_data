@@ -10,7 +10,8 @@
 
 ## Installation <a name="installation"></a>
 
-The code should run with no issues using Python versions 3.*.
+Python 3.* versions should allow the code to run without any problems.
+
 Requierd packages:
 - numpy 1.23.5
 - plotly 5.18.0
