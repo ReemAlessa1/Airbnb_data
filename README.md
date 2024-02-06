@@ -12,7 +12,7 @@
 
 Python 3.* versions should allow the code to run without any problems.
 
-Requierd packages:
+Required packages:
 - numpy 1.23.5
 - plotly 5.18.0
 - pandas 2.0.3
