@@ -21,7 +21,7 @@ Requierd packages:
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interested in using Seattle Airbnb open data to better understand:
+I was interested in leveraging Seattle Airbnb open data for this project in order to have a better understanding of:
 
 1. What is the busiest time of the year to visit Seattle? by how much do prices spike?
 2. What is the most expensive neighborhood in Seattle?
