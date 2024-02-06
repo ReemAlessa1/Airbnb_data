@@ -10,7 +10,13 @@
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+The code should run with no issues using Python versions 3.*.
+Requierd packages:
+- numpy 1.23.5
+- plotly 5.18.0
+- pandas 2.0.3
+- seaborn 0.13.1
+- matplotlib 3.8.2
 
 ## Project Motivation<a name="motivation"></a>
 
