@@ -34,7 +34,7 @@ To display work relevant to the questions above, there is one notebook available
 
 ## Results<a name="results"></a>
 
-The post that is published  [here](https://reemalessa1.github.io/) contains the primary conclusions of the code.
+The post that is published  [here](https://SeattleAirbnbData.github.io/) contains the primary conclusions of the code.
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
